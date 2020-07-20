@@ -4,13 +4,14 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.Column;
 @Entity
 public class GreetResponse {
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private int greetId;
-
+        @Column(length = 5000)
 	private String answers;
 
 	public int getGreetId() {
