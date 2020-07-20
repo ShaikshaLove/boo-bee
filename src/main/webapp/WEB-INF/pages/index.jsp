@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Jekyll v3.8.6">
-    <title>Mazzz App</title>
+    <title>Bee App</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.4/examples/cover/">
 
@@ -71,7 +71,7 @@
             <!-- Modal Header -->
             <div class="modal-header">
                      <h1 class="text-dark">Jovial Day</h1>
-              <button type="button" class="close" data-dismiss="modal">×</button>
+              <button type="button" class="close" data-dismiss="modal">Ã—</button>
             </div>
             
             <!-- Modal body -->
@@ -81,12 +81,13 @@
                     <br>
                  <p class="text-secondary">I'll try to ask you a very few question that would not bother and annoy you as well</p>
                    <ul>
-                       <li>What would you like to offer me today?</li>
-                       <li>Who has wished you greatly on this day?( do not say it's me)</li>
+                      <li>Who has wished you greatly on this day?( do not say it's me)</li>
                        <li>Write down the name of the person who greeted you fist?</li>
                        <li>What could be the number on the cake ? ( you might answer he he he)</li>
-                       <li>What was the worst wish/greet you received ?</li>
+                       <li>What would you like to offer me today?</li>
                        <li>What have you done in the entire lock-down?</li>
+                       <li>What was the awkward moment in the recent days?</li>
+                       <li>------------</li>
                    </ul>
                    <p class="text-danger">Note: Answers must be in order and separated  with comma
                        If you do not wish to answer,write the answer as NA:::: You can write any
