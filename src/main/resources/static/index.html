@@ -100,7 +100,7 @@
             
             <!-- Modal footer -->
             <div class="modal-footer">
-              <button type="button" class="btn btn-primary" data-dismiss="modal">Submit</button>
+              <input type="submit" class="btn btn-primary" value="submit">
             </div>
             
           </div>
